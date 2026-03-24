@@ -1,0 +1,8 @@
+{
+  "prompt": "A hyper-realistic geological cross-section of the Earth's crust viewed from the side. The deepest layers show traditional dinosaur fossils and rock strata. However, the top-most geological layer, representing the Anthropocene, is a thick, compressed stratum entirely made of crushed colorful plastic bottles, toys, circuit boards, and synthetic waste, fossilized into a solid block. On the surface above this plastic layer, a single, withered tree struggles to grow, its roots unable to penetrate the synthetic bedrock. The lighting is dramatic and subterranean, highlighting the permanence of the waste. No text, no labels.",
+  "model": "DALL·E 3",
+  "dataset_name": "Production, use, and fate of all plastics ever made (Geyer et al., 2017)",
+  "dataset_url": "https://www.science.org/doi/10.1126/sciadv.1700782",
+  "insight": "We have created a permanent geological layer of plastic, the 'Technofossil' stratum, which will persist long after humanity is gone.",
+  "publish_email": true
+}
